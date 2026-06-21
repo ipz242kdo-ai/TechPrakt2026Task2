@@ -102,3 +102,4 @@ class UserPanels {
     }
 }
 let userPanels = new UserPanels(arr);
+// Практична робота: перевірка роботи з файлами jsdemo (ipz242_kdo)
