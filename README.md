@@ -6,3 +6,4 @@
 
 * Кучинський Денис, група ІПЗ 24-2
 
+* Email: ipz242_kdo@student.ztu.edu.ua
